@@ -2,11 +2,9 @@
 <h2>💻⚙️Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
-  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Post-Installation Configuration of Roles]
   - [osTicket: Ticket Lifecycle Examples]
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+- <b>Proton VPN</b>
+  - [Quick & Secure: Installation of VPN]
 
 <h2>🌐 Connect with me:</h2>
