@@ -5,6 +5,6 @@
   - [osTicket: Post-Installation Configuration of Roles](https://github.com/LynnsCyber/osticketingconfig.roles)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LynnsCyber/osticketing)
 - <b>Proton VPN</b>
-  - [Quick & Secure: Installation of VPN]
+  - [Quick & Secure: Installation of VPN](https://github.com/LynnsCyber/VPNinstallation)
 
 <h2>🌐 Connect with me:</h2>
