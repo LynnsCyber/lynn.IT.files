@@ -3,7 +3,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration of Roles](https://github.com/LynnsCyber/osticketingconfig.roles)
-  - [osTicket: Ticket Lifecycle Examples]
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/LynnsCyber/osticketing)
 - <b>Proton VPN</b>
   - [Quick & Secure: Installation of VPN]
 
